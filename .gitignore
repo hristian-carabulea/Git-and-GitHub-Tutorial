@@ -1,0 +1,8 @@
+# ignore all .txt files
+# *.txt
+# ignore .gitignore
+# *.gitignore
+# to see a list of all files to ignore see 
+#   https://github.com/github/gitignore
+# delete Employee Salaries.txt
+Employee Salaries.txt
